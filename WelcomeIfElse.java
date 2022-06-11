@@ -8,7 +8,7 @@ public class WelcomeIfElse {
             } else {
                 System.out.println("Too Young.");
             }
-        }else {
+        } else {
             System.out.println("ERROR");
         }
     }
