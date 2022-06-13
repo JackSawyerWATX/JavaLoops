@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch While3",
+            "request": "launch",
+            "mainClass": "While3",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
             "name": "Launch While2",
             "request": "launch",
             "mainClass": "While2",
