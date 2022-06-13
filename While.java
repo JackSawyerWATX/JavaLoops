@@ -6,5 +6,12 @@ public class While {
             System.out.println(x);
             x--;
         }
+
+        int  y = 12;
+
+        while (y < 100) {
+            System.out.println("Java Kicks ASS!");
+            x++;
+        }
     }
 }
