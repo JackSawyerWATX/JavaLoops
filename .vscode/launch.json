@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OneThruFive",
+            "request": "launch",
+            "mainClass": "OneThruFive",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
             "name": "Launch WhileScannerInput",
             "request": "launch",
             "mainClass": "WhileScannerInput",
