@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperator",
+            "request": "launch",
+            "mainClass": "LogicalOperator",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperator2",
+            "request": "launch",
+            "mainClass": "LogicalOperator2",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Not",
+            "request": "launch",
+            "mainClass": "Not",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Or",
+            "request": "launch",
+            "mainClass": "Or",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchExpression",
+            "request": "launch",
+            "mainClass": "SwitchExpression",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WelcomeElseIf",
+            "request": "launch",
+            "mainClass": "WelcomeElseIf",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WelcomeIfElse",
+            "request": "launch",
+            "mainClass": "WelcomeIfElse",
+            "projectName": "JavaLoops_4985bca1"
+        }
+    ]
+}
