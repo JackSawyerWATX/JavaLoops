@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch WhileScannerInput",
+            "request": "launch",
+            "mainClass": "WhileScannerInput",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
             "name": "Launch WhileInput",
             "request": "launch",
             "mainClass": "WhileInput",
