@@ -1,9 +1,9 @@
 public class DoWhileLoop {
     public static void main(String[] args) {
-        int x = 1;
+        int x = 8;
         do {
             System.out.println(x);
-            x++;
-        } while (x < 5);
+            x = x + 4;
+        } while (x < 35);
     }
 }
