@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HellloWorldAndWelcomeToTheFreakShow",
+            "request": "launch",
+            "mainClass": "HellloWorldAndWelcomeToTheFreakShow",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
+            "name": "Launch HellloWorldAndWelcomeTo30DaysOfCode",
+            "request": "launch",
+            "mainClass": "HellloWorldAndWelcomeTo30DaysOfCode",
+            "projectName": "JavaLoops_4985bca1"
+        },
+        {
+            "type": "java",
             "name": "Launch DoWhileLoop",
             "request": "launch",
             "mainClass": "DoWhileLoop",
